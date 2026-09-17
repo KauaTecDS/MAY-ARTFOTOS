@@ -1,0 +1,26 @@
+body {
+  background-color: #b4edcf;
+  font-family: Arial;
+}
+
+#titulo-principal {
+  text-align: center;
+  color: #eb91d9;
+}
+
+p {
+  font-size: 20px;
+}
+
+.destaque {
+  color: #eb91d9;
+  font-weight: bold;
+}
+
+.caixa {
+  background-color: #91cdeb;
+  padding: 20px;
+  border: 1px solid #000;
+  margin: 20px;
+}
+a
